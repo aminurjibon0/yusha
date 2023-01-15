@@ -65,10 +65,11 @@ header {
     width: 100%;
 }
 .hero-row {
-  min-height: 100vh;
-  align-items: center;
+  min-height: 900px;
+  align-items: start;
+  padding-top: 200px;
   position: relative;
-  padding-bottom: 150px;
+
 }
 
 .hero_part {
@@ -561,12 +562,6 @@ font-size: 16px;
 }
 
 @media (min-width: 1980px) {
-    .hero-row {
-  min-height: 60vh;
-  align-items: center;
-  position: relative;
-  padding-bottom: 150px;
-}
 .hero_element img {
   position: absolute;
   bottom: -7%;

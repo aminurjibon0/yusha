@@ -68,7 +68,8 @@
 @media (max-width: 991px) {
 
     .hero-row {
-        min-height: 540px;
+        min-height: 680px;
+        padding-top: 100px;
     }
     .navbar-nav {
         background-color: #fff;
@@ -353,7 +354,7 @@
 
     .hero-row {
         min-height: 500px;
-        align-items: center;
+        padding-top: 100px;
     }
 
     .work_video video {
